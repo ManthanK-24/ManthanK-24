@@ -2,7 +2,7 @@
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ... manthandec123@gmail.com
+- 📫 How to reach me ... manthank2022@gmail.com
 
 <!---
 ManthanK-24/ManthanK-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
